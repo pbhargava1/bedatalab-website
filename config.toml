@@ -1,0 +1,30 @@
+baseURL = "https://bedatalab.github.io"
+languageCode = "en-us"
+title = "BE Data Lab"
+theme = "hugo-theme-nix"
+
+[params]
+  Name = "BE Data Lab"
+  HeaderUsername = "bedl"
+  HeaderHostname = "MIT-BE"
+  About = "Here we summarize who we are and what we do. A few sentences should suffice. Nothing too fancy. Just a few words. Maybe a bit more. I think that's enough."
+  ProfilePicture = "/img/BEDL_Logo_notxt.png"
+  GithubID = "bedatalab"
+
+[menu]
+  [[menu.header]]
+    name = "About"
+    weight = 0
+    url = "/about"
+  [[menu.header]]
+    name = "Resources"
+    weight = 0
+    url = "/resources"
+  [[menu.header]]
+    name = "Q&A"
+    weight = 0
+    url = "/qanda"
+  [[menu.header]]
+    name = "Fellows and Staff"
+    weight = 0
+    url = "/people"
