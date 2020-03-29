@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: "Fellows and Staff"
 draft: true
 ---
 

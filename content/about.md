@@ -6,7 +6,7 @@ draft: true
 La oveja negra
 
 [Minicuento - Texto completo.]
-Augusto Monterroso 
+Augusto Monterroso
 
 En un lejano país existió hace muchos años una Oveja negra. Fue fusilada.
 
