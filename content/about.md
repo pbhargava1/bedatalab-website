@@ -3,13 +3,27 @@ title: "About"
 draft: true
 ---
 
-La oveja negra
+## The MIT BE Data Lab provides peer coaching on data analysis and coding for life sciences researchers and students at MIT.
 
-[Minicuento - Texto completo.]
-Augusto Monterroso
+&nbsp;
 
-En un lejano país existió hace muchos años una Oveja negra. Fue fusilada.
+Inspired by the [BE Comm Lab](https://mitcommlab.mit.edu/be/)'s mode of operation,
+we provide on-demand, discipline-specific, 1-1 coaching to help students and
+researchers plan and carry out computational projects.
 
-Un siglo después, el rebaño arrepentido le levantó una estatua ecuestre que quedó muy bien en el parque.
+### We provide support for the following specific languages and frameworks:
 
-Así, en lo sucesivo, cada vez que aparecían ovejas negras eran rápidamente pasadas por las armas para que las futuras generaciones de ovejas comunes y corrientes pudieran ejercitarse también en la escultura.
+- Python (numpy, pandas, sklearn, ...)
+- R - (RNAseq data analysis)
+- Matlab
+- ComSol
+- Git (through GitHub)
+
+### We also provide support the following courses:
+
+- 20.109 - Laboratory Fundamentals in Biological Engineering
+- 20.309 - Biological Instrumentation and Measurement
+- 20.420 - Fundamentals of Biomolecular Engineering
+- 20.440 - Analysis of Biological Networks
+
+Check out our [Q&A](/qanda) for more information on what we do.

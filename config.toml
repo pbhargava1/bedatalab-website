@@ -7,8 +7,8 @@ theme = "hugo-theme-nix"
   Name = "MIT BE Data Lab"
   HeaderUsername = "bedl"
   HeaderHostname = "MIT-BE"
-  About = "Here we summarize who we are and what we do. A few sentences should suffice. Nothing too fancy. Just a few words. Maybe a bit more. I think that's enough."
-  ProfilePicture = "/img/BEDL_Logo_notxt.png"
+  About = "We provide peer coaching on data analysis and coding for life sciences researchers and students at MIT."
+  ProfilePicture = "/img/BEDL_Logo.png"
   GithubID = "bedatalab"
 
 [menu]
@@ -18,15 +18,15 @@ theme = "hugo-theme-nix"
     url = "/about"
   [[menu.header]]
     name = "Resources"
-    weight = 3
+    weight = 4
     url = "/resources"
   [[menu.header]]
     name = "Q&A"
-    weight = 4
+    weight = 2
     url = "/qanda"
   [[menu.header]]
     name = "Fellows+Staff"
-    weight = 2
+    weight = 3
     url = "/people"
   [[menu.header]]
     name = "Make_appointment"

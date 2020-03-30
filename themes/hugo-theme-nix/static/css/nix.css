@@ -39,23 +39,35 @@ nav {
 	font-size: 1.5em;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1 {
+	font-size: 4em;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+h2 {
+	font-size: 3em;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+h3,h4,h5,h6 {
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 
 #user-name {
 	font-size: 5em;
-	text-transform: uppercase;
+	text-transform: lowercase;
 }
 
 .user-description {
 	border-style: solid;
 	border-width: 5px;
-	border-color: #292929;
+	border-color: #93bd58;
 	margin-top: 20px;
 	margin-bottom: 1em;
 	padding: 15px;
 	font-size: initial;
+	text-align: center;
+	font-weight: bold;
 }
 
 .user-profile {
@@ -140,9 +152,20 @@ i {
 }
 
 div p {
-	text-align: justify;
+	text-align: left;
 }
 
 td {
 	margin: 0 20px 0 20px;
+}
+
+img[src*="#leftcircle"] {
+   width:200px;
+	 border-radius: 50%;
+	 float: left;
+	 margin: 30px;
+}
+
+a {
+	color: #93bd58
 }
