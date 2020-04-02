@@ -19,7 +19,7 @@ researchers plan and carry out computational projects.
 - ComSol
 - Git (through GitHub)
 
-### We also provide support the following courses:
+### We also provide support for the following courses:
 
 - 20.109 - Laboratory Fundamentals in Biological Engineering
 - 20.309 - Biological Instrumentation and Measurement
